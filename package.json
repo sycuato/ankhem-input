@@ -1,0 +1,14 @@
+{
+  "name": "ankhem-input",
+  "version": "0.0.4",
+  "description": "Ankhem Component: Input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sycuato",
+  "license": "MIT",
+  "dependencies": {
+    "ankhem-button": "*"
+  }
+}
