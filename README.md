@@ -1,7 +1,7 @@
 # ankhem-input
 Ankhem Component: Input
 
-# Porps
+## Porps
 data [object] 
 ```javascript
 {
