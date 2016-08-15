@@ -7,6 +7,7 @@ data [object]
 {
   name: required,
   type: required,
+  label: required,
   value: optional,
   render: optional/'group-with-btn'
 }
