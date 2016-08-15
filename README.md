@@ -8,7 +8,7 @@ data [object]
   name: required,
   type: required,
   value: optional,
-  render: 'group-with-btn'/null
+  render: optional/'group-with-btn'
 }
 ```
 onChange
