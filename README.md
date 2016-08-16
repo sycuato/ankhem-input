@@ -8,7 +8,7 @@ data [object]
   name: required,
   type: required,
   label: required,
-  value: optional,
+  value: required,
   render: optional/'group-with-btn'
 }
 ```
